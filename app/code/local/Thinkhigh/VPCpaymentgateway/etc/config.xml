@@ -2,7 +2,7 @@
 <config>
   <modules>
     <Thinkhigh_VPCpaymentgateway>
-      <version>0.1.0</version>
+      <version>1.0.1</version>
     </Thinkhigh_VPCpaymentgateway>
   </modules>
   <global>
