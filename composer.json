@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Thinkhigh_VPCpaymentgateway",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "The MIGS payment gateway",
+    "authors": [
+    {
+        "name": "Mitali",
+        "email": "mitukkngr@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
