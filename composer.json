@@ -1,9 +1,9 @@
 {
     "name": "OpenMageModuleFostering/Thinkhigh_VPCpaymentgateway",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "The MIGS payment gateway",
+    "description": "The MIGS payment extension for Magento. 3-party Payment(Redirect to payment gateway collect card details)",
     "authors": [
     {
         "name": "Mitali",
