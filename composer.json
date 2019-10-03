@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Thinkhigh_VPCpaymentgateway",
+    "name": "OpenMageModuleFostering\/Thinkhigh_VPCpaymentgateway",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "The MIGS payment extension for Magento. 3-party Payment(Redirect to payment gateway collect card details)",
     "authors": [
-    {
-        "name": "Mitali",
-        "email": "mitukkngr@gmail.com"
-    }
-],
+        {
+            "name": "Mitali",
+            "email": "mitukkngr@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
